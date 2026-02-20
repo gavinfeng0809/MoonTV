@@ -85,53 +85,53 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "小盒子4K": {
+    "xhz4k": {
       "api": "http://xhztv.top/4k.json",
-      "name": "3-小盒子4K"
+      "name": "小盒子4K"
     },
-    "4-健康家用": {
+    "jkjy": {
       "api": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-      "name": "4-健康家用"
+      "name": "健康家用"
     },
-    "5-王二小": {
+    "w2x": {
       "api": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-      "name": "5-王二小"
+      "name": "王二小"
     },
-    "6-FongMI线路": {
+    "fongmi": {
       "api": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
-      "name": "6-FongMI线路"
+      "name": "FongMI线路"
     },
-    "7-香雅情": {
+    "xyq": {
       "api": "https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-      "name": "7-香雅情"
+      "name": "香雅情"
     },
-    "8-巧计线路": {
+    "qjxl": {
       "api": "http://pandown.pro/tvbox/tvbox.json",
-      "name": "8-巧计线路"
+      "name": "巧计线路"
     },
-    "9-欧歌4K": {
+    "og": {
       "api": "http://tv.nxog.top/m/",
-      "name": "9-欧歌4K"
+      "name": "欧歌4K"
     },
-    "10-高天流云js": {
+    "gtls": {
       "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "10-高天流云js"
+      "name": "高天流云js"
     },
-    "11-高天流云 XYQ": {
+    "gtlsxyq": {
       "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "11-高天流云 XYQ"
+      "name": "高天流云XYQ"
     },
-    "12-影探线路": {
+    "ytxl": {
       "api": "http://www.lyyytv.cn/yt/yt.json",
-      "name": "12-影探线路"
+      "name": "影探线路"
     },
-    "13-南风": {
+    "nf": {
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "13-南风"
+      "name": "南风"
     },
-    "14-无意线路": {
+    "wy": {
       "api": "https://www.wya6.cn/tv/yc.json",
-      "name": "14-无意线路"
+      "name": "无意线路"
     }
   }
 }
