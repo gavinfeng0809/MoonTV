@@ -84,7 +84,7 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }，
+    },
             "url": "http://肥猫.com",
             "name": "🚀1-肥猫"
         },
@@ -139,6 +139,5 @@
         {
             "url": "https://www.wya6.cn/tv/yc.json",
             "name": "🚀14-无意线路"
-    }
   }
 }
